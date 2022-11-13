@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romankhymych&label=Profile%20views&color=0e75b6&style=flat" alt="romankhymych" /> </p>
 
-- 🔭 I’m currently working on [Heracl](https://github.com/Heracl/heracl)
+- 🔭 I’m currently working on [Heracl](https://github.com/romankhymych/heracl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
